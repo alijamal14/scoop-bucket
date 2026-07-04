@@ -1,19 +1,19 @@
 {
-    "version": "1.1.2",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/alijamal14/council/releases/download/v1.1.2/council_windows_x86_64.zip",
+            "url": "https://github.com/alijamal14/council/releases/download/v1.2.0/council_windows_x86_64.zip",
             "bin": [
                 "council.exe"
             ],
-            "hash": "569d25bafa6601b94604f70d4c1be87513e40ba0a2de392a15777f9defbbf3fc"
+            "hash": "b5f0ac1e7a2b7e39bdf60cda926436e6a14032e2c39c2a99485fc64d358171e9"
         },
         "arm64": {
-            "url": "https://github.com/alijamal14/council/releases/download/v1.1.2/council_windows_aarch64.zip",
+            "url": "https://github.com/alijamal14/council/releases/download/v1.2.0/council_windows_aarch64.zip",
             "bin": [
                 "council.exe"
             ],
-            "hash": "6db5c0768b3fad33f63825a321218479c1c9c148397dde797cbdd196f8f1e4d2"
+            "hash": "015ef825597e3b5912d2bf0a32a44ca0c721d2914ffd3f1317e4b560a6578603"
         }
     },
     "homepage": "https://github.com/alijamal14/council",
